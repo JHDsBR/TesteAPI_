@@ -3,7 +3,7 @@ from flask import Flask
 app = Flask(__name__)
 
 count = 0
-
+print("START")
 # rota apenas para verificar se a API está online
 @app.route("/")
 def Home():
