@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "start": "flask run"
+        "start": "python app.py"
     },
     "repository": {
         "type": "git",
